@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/art-app-deploy/static/css/main.533a4e15.css",
+    "main.js": "/art-app-deploy/static/js/main.54bcd616.js",
+    "static/js/453.92c78ebb.chunk.js": "/art-app-deploy/static/js/453.92c78ebb.chunk.js",
+    "index.html": "/art-app-deploy/index.html",
+    "main.533a4e15.css.map": "/art-app-deploy/static/css/main.533a4e15.css.map",
+    "main.54bcd616.js.map": "/art-app-deploy/static/js/main.54bcd616.js.map",
+    "453.92c78ebb.chunk.js.map": "/art-app-deploy/static/js/453.92c78ebb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533a4e15.css",
+    "static/js/main.54bcd616.js"
+  ]
+}
